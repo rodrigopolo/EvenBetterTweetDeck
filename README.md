@@ -1,17 +1,17 @@
-# Better TweetDeck
+# Even Better TweetDeck*
 
-Adds some nice options on [TweetDeck](http://tweetdeck.twitter.com) to provide a better experience on the webapp when used on Chrome (and Opera, but it's unsupported).
+*A fork from [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) adding Apple emojis. Adds some nice options on [TweetDeck](http://tweetdeck.twitter.com) to provide a better experience on the webapp when used on Chrome (and Opera, but it's unsupported).
 
 # Installation (Chrome)
 
-+ [Better TweetDeck on the Chrome Web Store](https://chrome.google.com/webstore/detail/better-tweetdeck/micblkellenpbfapmcpcfhcoeohhnpob)
++ [Better TweetDeck on the Chrome Web Store](https://chrome.google.com/webstore/detail/even-better-tweetdeck/pncjedjlambegjhbknbpnjiakmbkkjlj)
 
 # Installation (Opera)
 
 Better TweetDeck has been proven to work on Opera using the [Download Chrome Extension](https://addons.opera.com/en/extensions/details/download-chrome-extension-9/?display=en) add-on. Follow these steps to install Better TweetDeck on Opera :
 
 1. Download "[Download Chrome Extension](https://addons.opera.com/en/extensions/details/download-chrome-extension-9/?display=en)"
-2. Get [Better TweetDeck on the Chrome Web Store](https://chrome.google.com/webstore/detail/better-tweetdeck/micblkellenpbfapmcpcfhcoeohhnpob)
+2. Get [Better TweetDeck on the Chrome Web Store](https://chrome.google.com/webstore/detail/even-better-tweetdeck/pncjedjlambegjhbknbpnjiakmbkkjlj)
 3. Install it like you would on Chrome
 4. Confirm the installation because Opera will freak out about the origin of the extension
 5. ???
@@ -37,7 +37,7 @@ Then simply follow this workflow :
 
 # Screenshots
 
-![](meta/emojis.jpg)
+![](meta/emojis.png)
 ![](meta/btd-customization.jpg)
 ![](meta/bettertweetdeck-thumbnails.png)
 ![](meta/bettertweetdeck-lightboxes.png)

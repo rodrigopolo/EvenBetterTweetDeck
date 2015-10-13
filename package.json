@@ -1,17 +1,17 @@
 {
-  "name": "BetterTweetdeck",
-  "version": "2.0.0",
+  "name": "EvenBetterTweetDeck",
+  "version": "1.0.0",
   "description": "Adds some nice options on TweetDeck to provide a better experience on the webapp when used on Chrome.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eramdam/BetterTweetDeck.git"
+    "url": "https://github.com/rodrigopolo/EvenBetterTweetDeck.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eramdam/BetterTweetDeck/issues"
+    "url": "https://github.com/rodrigopolo/EvenBetterTweetDeck/issues"
   },
-  "homepage": "https://github.com/eramdam/BetterTweetDeck",
+  "homepage": "https://github.com/rodrigopolo/EvenBetterTweetDeck",
   "devDependencies": {
     "gulp": "^3.8.6",
     "gulp-concat": "^2.3.4",

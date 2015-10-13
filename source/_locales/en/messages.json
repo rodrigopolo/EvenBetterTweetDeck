@@ -4,7 +4,7 @@
 		"description": "The description of the application, displayed in the web store."
 	},
 	"appName": {
-		"message": "BetterTweetDeck",
+		"message": "Even Better TweetDeck",
 		"description": "name of the app"
 	},
 	"onInstallH1": {
